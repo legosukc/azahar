@@ -1,5 +1,9 @@
 ![Azahar Emulator](https://azahar-emu.org/resources/images/logo/azahar-name-and-logo.svg)
 
+poking and prodding around
+
+everything below is not written by me
+
 # Azahar Emulator for the PSVita
 
 This is an early, almost entirely vibecoded port of Azahar for the PSVita, so do not expect playability or support from my side.
